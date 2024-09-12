@@ -1,4 +1,4 @@
-launch via pyhon
+<b>launch via pyhon</b>
 python app.py
 or
 launch docker
